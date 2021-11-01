@@ -8,7 +8,6 @@ public class TestGit {
         System.out.println("第三次修改！");
         System.out.println("主线程；第四次修改！");
         System.out.println("第四次修改！");
-        System.out.println("支线第一次修改！");
         System.out.println("主线程第二次修改！");
     }
 }
